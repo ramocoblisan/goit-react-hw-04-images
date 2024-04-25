@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from "react";
+import React, { useState, useEffect } from "react";
 import styles from "./ImageGallery.module.css";
 import ImageGalleryItem from "components/ImageGalleryItem/ImageGalleryItem";
 import PropTypes from "prop-types";
